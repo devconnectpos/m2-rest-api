@@ -1,0 +1,38 @@
+{
+    "name": "connectpos/m2-rest-api",
+    "description": "ConnectPos Magento 2 API",
+    "version": "19.07.08",
+    "type": "metapackage",
+    "require": {
+        "connectpos/module-xretail": "19.07.08",
+        "connectpos/module-category": "19.07.08",
+        "connectpos/module-core": "19.07.08",
+        "connectpos/module-customer": "19.07.08",
+        "connectpos/module-customization": "19.07.08",
+        "connectpos/module-custom-sale": "19.07.08",
+        "connectpos/module-discount-per-item": "19.07.08",
+        "connectpos/module-discount-whole-order": "19.07.08",
+        "connectpos/module-email": "19.07.08",
+        "connectpos/module-eway": "19.07.08",
+        "connectpos/module-integrate": "19.07.08",
+        "connectpos/module-payment": "19.07.08",
+        "connectpos/module-performance": "19.07.08",
+        "connectpos/module-product": "19.07.08",
+        "connectpos/module-report": "19.07.08",
+        "connectpos/module-sales": "19.07.08",
+        "connectpos/module-setting": "19.07.08",
+        "connectpos/module-shift": "19.07.08",
+        "connectpos/module-shipping": "19.07.08",
+        "connectpos/module-store": "19.07.08",
+        "connectpos/module-tax": "19.07.08",
+        "connectpos/module-tls": "19.07.08",
+        "connectpos/module-wishlist": "19.07.08"
+        },
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ]
+}
+
+
+
