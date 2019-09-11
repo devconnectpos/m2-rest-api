@@ -4,7 +4,7 @@
     "version": "19.09.09",
     "type": "metapackage",
     "require": {
-        "connectpos/module-xretail": "19.09.09",
+        "connectpos/module-xretail": "19.09.11",
         "connectpos/module-category": "19.09.06",
         "connectpos/module-core": "19.09.06",
         "connectpos/module-customer": "19.09.06",
