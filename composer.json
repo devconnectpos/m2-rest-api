@@ -1,7 +1,7 @@
 {
     "name": "connectpos/m2-rest-api",
     "description": "ConnectPos Magento 2 API",
-    "version": "19.09.09",
+    "version": "19.09.11",
     "type": "metapackage",
     "require": {
         "connectpos/module-xretail": "19.09.11",
@@ -26,7 +26,7 @@
         "connectpos/module-pwa-qrcode": "19.09.06",
         "connectpos/module-refund-without-receipt": "19.09.06",
         "connectpos/module-report": "19.09.06",
-        "connectpos/module-sales": "19.09.06",
+        "connectpos/module-sales": "19.09.11",
         "connectpos/module-setting": "19.09.06",
         "connectpos/module-shift": "19.09.06",
         "connectpos/module-shipping": "19.09.06",
